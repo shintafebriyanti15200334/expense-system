@@ -80,7 +80,7 @@ Finance	finance@test.com	password
 •	Budget Control
 •	Pembayaran Finance
 •	Export Data (Pdf dan Excel)
-•	Riwayat Pengajuan dan Riwayat Approval
+•	Riwayat Pengajuan, Riwayat Approval, dan Riwayat Finance
 •	Dashboard statistic
 •	Activity log 
 •	Audit trail

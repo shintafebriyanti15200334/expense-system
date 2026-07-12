@@ -10,7 +10,7 @@ Git (Opsional)
 
 2.	Cara Instalasi
 2.1	Clone Repository
-git clone https://github.com/username/expense-system.git
+git clone https://github.com/shintafebriyanti15200334/expense-system
 Atau salin project ke folder:
 htdocs/expense-system
 2.2	Masuk ke Folder Project

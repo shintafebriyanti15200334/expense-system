@@ -12,43 +12,43 @@ Git (Opsional)
 2.1	Clone Repository
 git clone https://github.com/shintafebriyanti15200334/expense-system
 Atau salin project ke folder:
-htdocs/expense-system
+htdocs/expense-system <br>
 2.2	Masuk ke Folder Project
-cd expense-system
+cd expense-system <br>
 2.3	Install Dependency PHP
-composer install
+composer install <br>
 2.4	Install Dependency Frontend
-npm install
+npm install <br>
 2.5	Copy File Environment
 cp .env.example .env
 Windows CMD:
-copy .env.example .env
+copy .env.example .env <br>
 2.6	Generate Application Key
-php artisan key:generate
+php artisan key:generate <br>
 2.7	Membuat Database
-expense_system
-2.8	Konfigurasi Database
-.env
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=expense_system
-DB_USERNAME=root
-DB_PASSWORD=
+expense_system <br>
+2.8	Konfigurasi Database <br>
+.env <br>
+DB_CONNECTION=mysql <br>
+DB_HOST=127.0.0.1 <br>
+DB_PORT=3306 <br>
+DB_DATABASE=expense_system <br>
+DB_USERNAME=root <br>
+DB_PASSWORD= <br>
 2.9	Jalankan Migration
-php artisan migrate
+php artisan migrate <br>
 2.10	Jalankan Seeder
-php artisan db:seed
+php artisan db:seed <br>
 atau
-php artisan migrate:fresh –seed
+php artisan migrate:fresh –seed <br>
 2.11	Menjalankan Vite
-npm run dev
+npm run dev <br>
 2.12	Menjalankan Laravel
-php artisan serve
+php artisan serve 
 Akses:
 http://127.0.0.1:8000
 atau
-http://localhost/expense-system/public
+http://localhost/expense-system/public <br>
 
 3	Struktur Database
 Di PDF ERD nya 

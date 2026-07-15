@@ -1,5 +1,4 @@
-EXPENSE SYSTEM
-
+EXPENSE SYSTEM <br>
 Sistem Pengajuan Transaksi Pengeluaran Berbasis Laravel 12
 
 1.	Requirement <br>
@@ -97,7 +96,7 @@ Manager	Approval pertama jika > 5.000.000 <br>
 Director	Approval terakhir <br>
 Finance	Pembayaran dan menyelesaikan transaksi
 
-9	Teknologi
+9	Teknologi <br>
 •	Laravel 12 <br>
 •	PHP 8.2 <br>
 •	MySQL / Xampp <br>

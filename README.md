@@ -61,13 +61,13 @@ PO Produk : Staff → Director → Finance <br>
 Status akhir: Paid
 
 5	Akun Login Testing
-
-Role	Email	Password
-Staff	staff@test.com	password
-SPV	spv@test.com	password
-Manager	manager@test.com	password
-Director	director@test.com	password
-Finance	finance@test.com	password
+<br>
+Role	Email	Password <br>
+Staff	staff@test.com	password <br>
+SPV	spv@test.com	password <br>
+Manager	manager@test.com	password <br>
+Director	director@test.com	password <br>
+Finance	finance@test.com	password <br>
 
 6	Fitur Sistem
 7	Login Multi Role

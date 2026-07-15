@@ -1,11 +1,13 @@
 EXPENSE SYSTEM
+
 Sistem Pengajuan Transaksi Pengeluaran Berbasis Laravel 12
-1.	Requirement
-PHP 8.2 atau lebih baru
-Composer
-VS Code
-MySQL / Xampp
-Node.js & NPM
+
+1.	Requirement <br>
+PHP 8.2 atau lebih baru <br>
+Composer <br>
+VS Code <br>
+MySQL / Xampp <br>
+Node.js & NPM <br>
 Git (Opsional)
 
 2.	Cara Instalasi
@@ -96,11 +98,11 @@ Director	Approval terakhir <br>
 Finance	Pembayaran dan menyelesaikan transaksi
 
 9	Teknologi
-•	Laravel 12
-•	PHP 8.2
-•	MySQL / Xampp
-•	Bootstrap 5
-•	Laravel Breeze
-•	Eloquent ORM
-•	Author
+•	Laravel 12 <br>
+•	PHP 8.2 <br>
+•	MySQL / Xampp <br>
+•	Bootstrap 5 <br>
+•	Laravel Breeze <br>
+•	Eloquent ORM <br>
+•	Author <br>
 •	Web Application Developer Test

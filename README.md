@@ -54,10 +54,10 @@ http://localhost/expense-system/public
 Di PDF ERD nya 
 
 4	Workflow Approval
-≤ Rp5.000.000 : Staff → SPV → Finance
-> Rp5.000.000 s/d Rp10.000.000 : Staff → Manager → Finance
-> Rp10.000.000 : Staff → Director → Finance
-PO Produk : Staff → Director → Finance
+≤ Rp5.000.000 : Staff → SPV → Finance <br>
+> Rp5.000.000 s/d Rp10.000.000 : Staff → Manager → Finance <br>
+> Rp10.000.000 : Staff → Director → Finance <br>
+PO Produk : Staff → Director → Finance <br>
 Status akhir: Paid
 
 5	Akun Login Testing

@@ -55,8 +55,8 @@ Di PDF ERD nya
 
 4	Workflow Approval
 ≤ Rp5.000.000 : Staff → SPV → Finance
-> Rp5.000.000 s/d Rp10.000.000 : Staff → SPV → Manager → Finance
-> Rp10.000.000 : Staff → SPV → Manager → Director → Finance
+> Rp5.000.000 s/d Rp10.000.000 : Staff → Manager → Finance
+> Rp10.000.000 : Staff → Director → Finance
 PO Produk : Staff → Director → Finance
 Status akhir: Paid
 

@@ -94,7 +94,7 @@ Staff	Membuat pengajuan <br>
 SPV	Approval pertama jika < 5.000.000 <br>
 Manager	Approval pertama jika > 5.000.000 <br>
 Director	Approval pertama jika > 10.000.000 dan Approval jika PO Produk serta Approval terakhir jika sudah di approve oleh spv maupun manager <br>
-Financn Final Approval dam	Pembayaran serta menyelesaikan transaksi
+Finance Final Approval dam	Pembayaran serta menyelesaikan transaksi
 
 9	Teknologi <br>
 •	Laravel 12 <br>

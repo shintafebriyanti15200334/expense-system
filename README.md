@@ -70,29 +70,29 @@ Director	director@test.com	password <br>
 Finance	finance@test.com	password <br>
 
 6	Fitur Sistem
-7	Login Multi Role
-•	Dashboard
-•	Pengajuan Transaksi Pengeluaran
-•	Upload Multiple (bisa upload lebih dari satu)
-•	Approval SPV
-•	Approval Manager
-•	Approval Director
-•	Budget Control
-•	Pembayaran Finance
-•	Export Data (Pdf dan Excel)
-•	Riwayat Pengajuan, Riwayat Approval, dan Riwayat Finance
-•	Dashboard statistic
-•	Activity log 
-•	Audit trail
-•	API endpoint
+7	Login Multi Role <br>
+•	Dashboard <br>
+•	Pengajuan Transaksi Pengeluaran <br>
+•	Upload Multiple (bisa upload lebih dari satu) <br>
+•	Approval SPV <br>
+•	Approval Manager <br>
+•	Approval Director <br>
+•	Budget Control <br>
+•	Pembayaran Finance <br>
+•	Export Data (Pdf dan Excel) <br>
+•	Riwayat Pengajuan, Riwayat Approval, dan Riwayat Finance <br>
+•	Dashboard statistic <br>
+•	Activity log <br>
+•	Audit trail <br>
+•	API endpoint <br>
 
 8	Hak Akses Pengguna
 
-Role	Hak Akses
-Staff	Membuat pengajuan
-SPV	Approval pertama
-Manager	Approval kedua
-Director	Approval terakhir
+Role	Hak Akses <br>
+Staff	Membuat pengajuan <br>
+SPV	Approval pertama jika < 5.000.000 <br>
+Manager	Approval pertama jika > 5.000.000 <br>
+Director	Approval terakhir <br>
 Finance	Pembayaran dan menyelesaikan transaksi
 
 9	Teknologi

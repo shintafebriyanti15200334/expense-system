@@ -9,7 +9,7 @@ MySQL / Xampp <br>
 Node.js & NPM <br>
 Git (Opsional)
 
-2.	Cara Instalasi
+2.	Cara Instalasi <br>
 2.1	Clone Repository
 git clone https://github.com/shintafebriyanti15200334/expense-system
 Atau salin project ke folder:
